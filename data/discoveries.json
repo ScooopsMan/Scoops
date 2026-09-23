@@ -1,0 +1,1000 @@
+[
+  {
+    "id": "discovery-60ff40c297e5",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "1/2 Cent For Flagler Schools",
+    "url": "https://www.flaglerschools.com/cent-for-flagler-schools-1-2",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-0ff46794985e",
+    "sourceId": "flagler-cultural-council",
+    "sourceName": "Flagler County Cultural Council",
+    "sourceKind": "Organizer / arts events",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "ABOUT THE COUNCIL",
+    "url": "https://flaglerartsandculture.org/about",
+    "keywordHits": [
+      "arts"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-4f235b84c950",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Academics",
+    "url": "https://www.flaglerschools.com/academics",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-be3b4aaf1b55",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Accessibility",
+    "url": "https://www.flaglerschools.com/accessibility",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-ec1383a668ec",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Accountability",
+    "url": "https://www.flaglerschools.com/accountability",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-e90d88dc4ab3",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Adult Education",
+    "url": "https://www.flaglerschools.com/adult-education",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-4fc38293e219",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Advanced High School Programs",
+    "url": "https://www.flaglerschools.com/advanced-high-school-programs",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-a60ccd857323",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Annual Registration",
+    "url": "https://www.flaglerschools.com/annual-registration",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-4a8349ade74a",
+    "sourceId": "stjohns-parks",
+    "sourceName": "St. Johns County Parks & Recreation",
+    "sourceKind": "Official county source",
+    "sourceTier": 1,
+    "county": "St. Johns",
+    "title": "Aquatics",
+    "url": "https://www.sjcfl.us/parks_trails/solomon-calhoun-community-center",
+    "keywordHits": [
+      "community"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-d6f7c7caebeb",
+    "sourceId": "visit-flagler-events",
+    "sourceName": "Visit Flagler Events",
+    "sourceKind": "Tourism calendar",
+    "sourceTier": 2,
+    "county": "Flagler",
+    "title": "Art Galleries",
+    "url": "https://www.visitflagler.com/things-to-do/arts-culture/art-galleries",
+    "keywordHits": [
+      "arts"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-c0cac846b9b6",
+    "sourceId": "visit-flagler-events",
+    "sourceName": "Visit Flagler Events",
+    "sourceKind": "Tourism calendar",
+    "sourceTier": 2,
+    "county": "Flagler",
+    "title": "Arts & Culture",
+    "url": "https://www.visitflagler.com/things-to-do/arts-culture",
+    "keywordHits": [
+      "arts"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-2294b5d7164d",
+    "sourceId": "visit-staugustine-festivals",
+    "sourceName": "Visit St. Augustine Festivals",
+    "sourceKind": "Tourism festival calendar",
+    "sourceTier": 2,
+    "county": "St. Johns",
+    "title": "Arts & Culture",
+    "url": "https://www.visitstaugustine.com/events/arts-culture",
+    "keywordHits": [
+      "arts"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-334c52967651",
+    "sourceId": "flagler-cultural-council",
+    "sourceName": "Flagler County Cultural Council",
+    "sourceKind": "Organizer / arts events",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Arts / Entertainment",
+    "url": "https://flaglerartsandculture.org/arts-and-entertainment",
+    "keywordHits": [
+      "arts"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-9308235602af",
+    "sourceId": "palmcoast-events",
+    "sourceName": "City of Palm Coast Events",
+    "sourceKind": "Official city calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Arts District",
+    "url": "https://www.palmcoast.gov/arts-district",
+    "keywordHits": [
+      "arts"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-524a0ababf6f",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Assessments",
+    "url": "https://www.flaglerschools.com/assessments",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-f7b71dc6fcff",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Assessments",
+    "url": "https://www.flaglerschools.com/assessments-home",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-aa279dbc3ef9",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Athletic Coaching Certification",
+    "url": "https://www.flaglerschools.com/athlectic-coaching-certification",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-931da3d9c0e5",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Athletics",
+    "url": "https://www.flaglerschools.com/athlectics",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-6837ea61187b",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Attendance",
+    "url": "https://www.flaglerschools.com/attendance",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-85959bac13b4",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Behavior and Discipline",
+    "url": "https://www.flaglerschools.com/364247_2",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-350dff1d4df9",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Behavior and Discipline",
+    "url": "https://www.flaglerschools.com/behavior-and-discipline",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-ff2644a755fe",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Belle Terre Swim and Racquet",
+    "url": "https://www.flaglerschools.com/belle-terre-swim-and-raquet",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-071b19254306",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Benefits",
+    "url": "https://www.flaglerschools.com/benefits",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-1bd2c1b4df30",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Board Calendar",
+    "url": "https://www.flaglerschools.com/364476_2",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-037303c97836",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Board Docs",
+    "url": "https://www.flaglerschools.com/407905_2",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-eb2a897cbc68",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Board Members",
+    "url": "https://www.flaglerschools.com/board-members",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-b7fa2460daee",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Board Policies",
+    "url": "https://www.flaglerschools.com/board-policies",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-afc40cd3a9d4",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Brand and Communications",
+    "url": "https://www.flaglerschools.com/brand-and-communications",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-bde17220b977",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Bullying",
+    "url": "https://www.flaglerschools.com/bullying",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-7f746a698bb3",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Bus Transportation",
+    "url": "https://www.flaglerschools.com/bus-transportation",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-a79ceebc8430",
+    "sourceId": "flagler-cultural-council",
+    "sourceName": "Flagler County Cultural Council",
+    "sourceKind": "Organizer / arts events",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "COMPANY @ City Repertory Theatre",
+    "url": "https://flaglerartsandculture.org/event/company-city-repertory-theatre/2026-09-25",
+    "keywordHits": [
+      "arts"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-cc02e388c3c4",
+    "sourceId": "flagler-cultural-council",
+    "sourceName": "Flagler County Cultural Council",
+    "sourceKind": "Organizer / arts events",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "COMPANY @ City Repertory Theatre",
+    "url": "https://flaglerartsandculture.org/event/company-city-repertory-theatre/2026-09-26",
+    "keywordHits": [
+      "arts"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-9a7a9c5e8619",
+    "sourceId": "flagler-cultural-council",
+    "sourceName": "Flagler County Cultural Council",
+    "sourceKind": "Organizer / arts events",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "COMPANY @ City Repertory Theatre",
+    "url": "https://flaglerartsandculture.org/event/company-city-repertory-theatre/2026-09-27",
+    "keywordHits": [
+      "arts"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-75513a189967",
+    "sourceId": "sjc-chamber-calendar",
+    "sourceName": "St. Johns County Chamber Calendar",
+    "sourceKind": "Business / employer leads",
+    "sourceTier": 2,
+    "county": "St. Johns",
+    "title": "Celebrate! 2026: Rooted in Community, Growing Together",
+    "url": "https://business.sjcchamber.com/calendar/Details/celebrate-2026-rooted-in-community-growing-together-1900948?sourceTypeId=Website",
+    "keywordHits": [
+      "community"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-5894a38a9450",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Certification",
+    "url": "https://www.flaglerschools.com/certification",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-eeffd6b98cb4",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Certification Exams",
+    "url": "https://www.flaglerschools.com/certification-exams",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-0fa4b9da38ea",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Certification Home",
+    "url": "https://www.flaglerschools.com/certification-home",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-f807e13e637a",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Certification Renewal",
+    "url": "https://www.flaglerschools.com/certification-renewal",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-f043fb40572c",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Charter Schools",
+    "url": "https://www.flaglerschools.com/charter-schools",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-df075b228006",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Code of Student Conduct",
+    "url": "https://www.flaglerschools.com/code-of-student-conduct",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-f05f574361af",
+    "sourceId": "flagler-beach-calendar",
+    "sourceName": "City of Flagler Beach Calendar",
+    "sourceKind": "Official city calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Community",
+    "url": "https://www.cityofflaglerbeach.com/114/Community",
+    "keywordHits": [
+      "community"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-0149ca2e07cb",
+    "sourceId": "visit-flagler-events",
+    "sourceName": "Visit Flagler Events",
+    "sourceKind": "Tourism calendar",
+    "sourceTier": 2,
+    "county": "Flagler",
+    "title": "Community & State Parks",
+    "url": "https://www.visitflagler.com/things-to-do/outdoor-adventures/community-state-parks",
+    "keywordHits": [
+      "community"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-66282f98ba24",
+    "sourceId": "palmcoast-events",
+    "sourceName": "City of Palm Coast Events",
+    "sourceKind": "Official city calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Community Calendar",
+    "url": "https://www.palmcoast.gov/CityCalendar",
+    "keywordHits": [
+      "community"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-4376b322d659",
+    "sourceId": "palmcoast-events",
+    "sourceName": "City of Palm Coast Events",
+    "sourceKind": "Official city calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Community Center & Park",
+    "url": "https://www.palmcoast.gov/community-center",
+    "keywordHits": [
+      "community"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-53176a63de96",
+    "sourceId": "palmcoast-events",
+    "sourceName": "City of Palm Coast Events",
+    "sourceKind": "Official city calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Community Development",
+    "url": "https://www.palmcoast.gov/community-development",
+    "keywordHits": [
+      "community"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-82e02be6e02b",
+    "sourceId": "sjc-chamber-calendar",
+    "sourceName": "St. Johns County Chamber Calendar",
+    "sourceKind": "Business / employer leads",
+    "sourceTier": 2,
+    "county": "St. Johns",
+    "title": "Community Events",
+    "url": "https://business.sjcchamber.com/community-events",
+    "keywordHits": [
+      "community"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-b416f100ac37",
+    "sourceId": "sjc-parks-foundation",
+    "sourceName": "St. Johns County Parks Foundation",
+    "sourceKind": "Vendor / sponsor opportunity source",
+    "sourceTier": 1,
+    "county": "St. Johns",
+    "title": "Community Stories",
+    "url": "https://sjcpf.org/blog",
+    "keywordHits": [
+      "community"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-3ee5f410cb02",
+    "sourceId": "stjohns-parks",
+    "sourceName": "St. Johns County Parks & Recreation",
+    "sourceKind": "Official county source",
+    "sourceTier": 1,
+    "county": "St. Johns",
+    "title": "Community and Destination Development",
+    "url": "https://www.sjcfl.us/departments/tourism-development-council",
+    "keywordHits": [
+      "community"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-ea95c3b16cf3",
+    "sourceId": "hastings-fall-harvest",
+    "sourceName": "Hastings Fall Harvest Vendor Application",
+    "sourceKind": "Vendor application",
+    "sourceTier": 1,
+    "county": "St. Johns",
+    "title": "Community center",
+    "url": "https://www.eventeny.com/community",
+    "keywordHits": [
+      "community"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-2665db95a295",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Comprehensive Health",
+    "url": "https://www.flaglerschools.com/comprehensive-health",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-0024f0bf6980",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Connect With Us",
+    "url": "https://www.flaglerschools.com/connect-with-us",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-9b8b5c47f230",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Connect With Us",
+    "url": "https://www.flaglerschools.com/connect-with-us-home",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-0e35853edd7e",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Contact Information",
+    "url": "https://www.flaglerschools.com/contact-information",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-70e2c83f4fcd",
+    "sourceId": "flagler-cultural-council",
+    "sourceName": "Flagler County Cultural Council",
+    "sourceKind": "Organizer / arts events",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Culture",
+    "url": "https://flaglerartsandculture.org/culture",
+    "keywordHits": [
+      "arts"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-02338ad5dffb",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Curriculum Maps",
+    "url": "https://www.flaglerschools.com/cirriculum-maps",
+    "keywordHits": [
+      "school"
+    ],
+    "score": 2,
+    "signal": "low",
+    "firstSeen": "2026-09-23",
+    "lastSeen": "2026-09-23",
+    "needsReview": true
+  },
+  {
+    "id": "discovery-02cb9b7ed8c2",
+    "sourceId": "flagler-schools-calendar",
+    "sourceName": "Flagler Schools Calendar",
+    "sourceKind": "Official school calendar",
+    "sourceTier": 1,
+    "county": "Flagler",
+    "title": "Curriculum and Instruction",
+    "url": "https://www.flaglerschools.com/363239_2",
