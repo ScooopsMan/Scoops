@@ -1,0 +1,10 @@
+{
+  "defaults": {
+    "averageTicket": 6,
+    "variableCostPct": 30,
+    "travelMisc": 60,
+    "ownerLaborTarget": 200,
+    "donationPct": 0
+  },
+  "explanation": "Contribution is estimated as average ticket minus variable product, packaging and processing costs. Break-even adds the event fee, travel/miscellaneous and owner labor target. Replace defaults with actual Scoops numbers."
+}
