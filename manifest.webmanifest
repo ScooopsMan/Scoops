@@ -1,0 +1,17 @@
+{
+  "name": "Scoops by the Sea | Event & Vendor Radar",
+  "short_name": "Scoops by the Sea",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071624",
+  "theme_color": "#102A43",
+  "description": "Private event and vendor intelligence dashboard for Scoops by the Sea.",
+  "icons": [
+    {
+      "src": "/scoops-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
