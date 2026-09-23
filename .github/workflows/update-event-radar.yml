@@ -4,13 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "15 12 * * *"
-  push:
-    branches:
-      - main
-    paths:
-      - "scripts/update_event_intel.py"
-      - ".github/workflows/update-event-radar.yml"
-
 permissions:
   contents: write
 
