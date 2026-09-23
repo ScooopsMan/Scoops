@@ -1,0 +1,79 @@
+[
+  {
+    "id": "touch-a-truck-2025",
+    "series": "Palm Coast Touch-a-Truck",
+    "edition": "2025",
+    "county": "Flagler",
+    "evidenceType": "City-reported historical",
+    "headline": "6,000+ visitors",
+    "details": "Palm Coast reported more than 6,000 visitors and advertised 13 food trucks. A large family crowd does not automatically mean low competition.",
+    "dessertCompetition": "Historical/adjacent rosters included Kona Ice, Italian ice and other sweets.",
+    "sourceUrl": "https://www.palmcoast.gov/newsroom/home/details/5th-annual-touch-a-truck"
+  },
+  {
+    "id": "touch-a-truck-2026",
+    "series": "Palm Coast Touch-a-Truck",
+    "edition": "2026",
+    "county": "Flagler",
+    "evidenceType": "Published vendor roster",
+    "headline": "Dessert saturation mattered",
+    "details": "The food court lineup included multiple sweet/frozen categories. Use the actual roster, not just headline attendance, when deciding whether a future slot is worth paying for.",
+    "dessertCompetition": "Kona Ice, Andrea's Italian Ice, The Sugared Lemon, funnel cake and mini donuts were among the published sweet options.",
+    "sourceUrl": "https://www.palmcoast.gov/newsroom/home/details/2026-touch-a-truck"
+  },
+  {
+    "id": "food-truck-tuesday-2025",
+    "series": "Palm Coast Food Truck Tuesday",
+    "edition": "2025",
+    "county": "Flagler",
+    "evidenceType": "City-reported historical",
+    "headline": "Demand existed — so did direct competition",
+    "details": "City reporting described successful 2025 events, while a March lineup included frozen and sweet competitors.",
+    "dessertCompetition": "Kona Ice, Sweet Melissa's Homemade Ice Cream, lemonade and other sweets were present in a historical lineup.",
+    "sourceUrl": "https://www.palmcoast.gov/"
+  },
+  {
+    "id": "creekside-weather-2025",
+    "series": "Creekside Festival",
+    "edition": "2025 → 2026",
+    "county": "Flagler",
+    "evidenceType": "Organizer / tourism history",
+    "headline": "Weather moved the whole event",
+    "details": "The October 2025 edition was moved to February 2026. That makes refund, credit and rainout language commercially important before paying a future fee.",
+    "dessertCompetition": "Request the current roster rather than relying on historic festival size claims.",
+    "sourceUrl": "https://www.visitflagler.com/"
+  },
+  {
+    "id": "race-runways-2026",
+    "series": "Race of the Runways",
+    "edition": "2026",
+    "county": "Flagler",
+    "evidenceType": "Reported participant count",
+    "headline": "649 runners / walkers",
+    "details": "Local reporting counted a record 649 participants. That is a participant count, not a dessert-customer count.",
+    "dessertCompetition": "Finish-area included food/after-party activity; confirm incumbent suppliers before pitching.",
+    "sourceUrl": ""
+  },
+  {
+    "id": "scoops-citgo-2026",
+    "series": "Scoops actual — Hammock Citgo",
+    "edition": "September 2026",
+    "county": "Flagler",
+    "evidenceType": "Scoops actual",
+    "headline": "$100 day, then $40 day",
+    "details": "Scoops paid $75 per day for the location. The weak walk-up result is a useful warning against rent-only traffic experiments without a scheduled crowd.",
+    "dessertCompetition": "Not the main issue. Traffic conversion and stop visibility were the bigger problems.",
+    "sourceUrl": ""
+  },
+  {
+    "id": "scoops-surf-station-2026",
+    "series": "Scoops actual — Surf Station 2",
+    "edition": "Summer 2026",
+    "county": "St. Johns",
+    "evidenceType": "Scoops actual",
+    "headline": "Typical early summer days around $100–$120",
+    "details": "Best early-summer day was around $200. Use these real Scoops numbers as a baseline when deciding whether an event fee and long service window make sense.",
+    "dessertCompetition": "Location vending baseline, not a festival comparison.",
+    "sourceUrl": ""
+  }
+]
