@@ -1,0 +1,40 @@
+[
+  {
+    "id": "flagler-beach",
+    "name": "City of Flagler Beach",
+    "county": "Flagler",
+    "rules": [
+      "Special-event itinerant merchant paperwork has carried a $25 fee.",
+      "Prepared-food vendors must provide the applicable state food-service license.",
+      "Food vendors have been required to provide a $1,000,000 certificate of insurance naming the city as additional insured.",
+      "Special-event paperwork should be submitted ahead of the event; current city checklist has specified at least 10 business days."
+    ],
+    "caution": "Verify the current form and insurance wording for the exact event before paying or sending a COI.",
+    "url": "https://www.cityofflaglerbeach.com/"
+  },
+  {
+    "id": "palm-coast",
+    "name": "City of Palm Coast",
+    "county": "Flagler",
+    "rules": [
+      "Palm Coast has a separate mobile-food-vendor site / certificate-of-use framework for ordinary approved MFDV sites.",
+      "The city has published a $116 MFDV site permit in its mobile-food-vendor materials.",
+      "An ordinary site permit is not the same thing as acceptance into a city special event.",
+      "Event-specific vendor packets can separately require DBPR license, COI and organizer acceptance."
+    ],
+    "caution": "Do not combine ordinary park/site vending rules with special-event permission. Confirm the exact route for the date.",
+    "url": "https://www.palmcoast.gov/building"
+  },
+  {
+    "id": "st-johns-county",
+    "name": "St. Johns County",
+    "county": "St. Johns",
+    "rules": [
+      "County park or recreation presence does not itself establish a right to vend.",
+      "Food-truck requirements can be controlled by the event organizer, venue and state MFDV licensing together.",
+      "Generator, fire and insurance requirements vary by event."
+    ],
+    "caution": "Use the event application as the primary commercial source, then confirm venue-specific requirements.",
+    "url": "https://www.sjcfl.us/parksandrec/"
+  }
+]
