@@ -1,0 +1,98 @@
+[
+  {
+    "id": "palm-coast-town-center",
+    "name": "Palm Coast Town Center / Central Park",
+    "county": "Flagler",
+    "city": "Palm Coast",
+    "recurringEvents": [
+      "Beats & Eats",
+      "Fall Arts & Crafts Festival",
+      "Tree Lighting",
+      "Touch-a-Truck"
+    ],
+    "strengths": "Large municipal family-event cluster; one city vendor relationship can unlock multiple dates.",
+    "risks": "Dessert overlap varies by event. Short evening windows can hurt frozen-dessert volume. City packet does not guarantee a slot.",
+    "power": "Event-specific. Confirm plug type, amperage and whether truck placement can reach power.",
+    "access": "Confirm serving orientation, load-in route and whether the truck remains locked in until event close.",
+    "nextQuestion": "Which events have an actual dessert opening and how many direct competitors are already accepted?"
+  },
+  {
+    "id": "flagler-fairgrounds",
+    "name": "Flagler County Fairgrounds",
+    "county": "Flagler",
+    "city": "Bunnell",
+    "recurringEvents": [
+      "Flagler County Pro Rodeo",
+      "KIX Country Fest",
+      "Charming Sisters Holiday Market",
+      "Flagler County Fair & Youth Show"
+    ],
+    "strengths": "Multiple large event organizers rent the same property, creating a reusable venue profile.",
+    "risks": "Fair board, county venue staff and private renters are different decision-makers. A fairgrounds event listing is not permission to vend.",
+    "power": "Ask each event organizer. Do not assume fairgrounds service is included.",
+    "access": "Confirm overnight rules, gate/load-in, surface, truck placement and whether an event locks vendors in.",
+    "nextQuestion": "Who controls concessions for this specific renter and what does the vendor owe beyond the organizer fee?"
+  },
+  {
+    "id": "francis-field",
+    "name": "Francis Field",
+    "county": "St. Johns",
+    "city": "St. Augustine",
+    "recurringEvents": [
+      "Ancient City Kids Day",
+      "St. ARTistine",
+      "Original Florida Key Lime Pie Festival",
+      "St. Augustine Lions Seafood Festival",
+      "other downtown festivals"
+    ],
+    "strengths": "High-value event factory with recurring family, tourist and food-focused crowds.",
+    "risks": "Crowd quality varies wildly by event. Dessert-heavy festivals can create severe overlap even when attendance is large.",
+    "power": "Event-specific. Confirm generator policy, electrical availability and fire requirements.",
+    "access": "Downtown event logistics may mean fixed load-in/out windows and tight truck placement.",
+    "nextQuestion": "For this edition, what are the truck fee, direct dessert competitors, load-in window and actual prior attendance?"
+  },
+  {
+    "id": "princess-place",
+    "name": "Princess Place Preserve",
+    "county": "Flagler",
+    "city": "Palm Coast / Bunnell area",
+    "recurringEvents": [
+      "Creekside Festival",
+      "Flagler County Native American Festival"
+    ],
+    "strengths": "Long-dwell outdoor festival setting can support dessert demand when weather cooperates.",
+    "risks": "Weather disruption is real. Remote placement, long hours and multi-day requirements can crush economics.",
+    "power": "Likely generator dependent unless organizer supplies temporary service. Verify.",
+    "access": "Ask about overnight storage, ground conditions, load-in and whether leaving early is prohibited.",
+    "nextQuestion": "What did the most recent comparable edition actually draw, and how many dessert vendors were there?"
+  },
+  {
+    "id": "florida-ag-museum-venue",
+    "name": "Florida Agricultural Museum",
+    "county": "Flagler",
+    "city": "Palm Coast",
+    "recurringEvents": [
+      "Food Truck Friday on the Farm"
+    ],
+    "strengths": "Purpose-built recurring food-truck format with family activities and repeat dates.",
+    "risks": "Free admission does not mean free vending. Repeat success depends on placement, dessert saturation and weather.",
+    "power": "Confirm per date.",
+    "access": "Ask for exact truck position and rain-credit policy.",
+    "nextQuestion": "What is the current fee and which frozen-dessert categories are already booked?"
+  },
+  {
+    "id": "grand-haven",
+    "name": "Grand Haven",
+    "county": "Flagler",
+    "city": "Palm Coast",
+    "recurringEvents": [
+      "Resident socials",
+      "Golf / nonprofit events"
+    ],
+    "strengths": "Private promoted crowd can reduce speculative risk, especially with prepaid packages.",
+    "risks": "Cafe/club food service rights, gate access and catering approval.",
+    "power": "Potential shore power, but confirm exact plug and amperage.",
+    "access": "Coordinate gate entry and an approved common-area position.",
+    "nextQuestion": "Can the host guarantee attendance or prepay a defined number of treats?"
+  }
+]
