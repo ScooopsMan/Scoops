@@ -12,7 +12,10 @@
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 8,
-    "pageFingerprint": "12c3f07cb1fda39b"
+    "pageFingerprint": "12c3f07cb1fda39b",
+    "approxMiles": 13,
+    "distanceTag": "NEARBY",
+    "priority": "PRIMARY"
   },
   {
     "id": "flagler-beach-calendar",
@@ -27,7 +30,10 @@
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 1,
-    "pageFingerprint": "3298aeb7da5cdfdd"
+    "pageFingerprint": "3298aeb7da5cdfdd",
+    "approxMiles": 18,
+    "distanceTag": "NEARBY",
+    "priority": "PRIMARY"
   },
   {
     "id": "visit-flagler-events",
@@ -42,7 +48,10 @@
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 6,
-    "pageFingerprint": "ebe844ec34e68c16"
+    "pageFingerprint": "ebe844ec34e68c16",
+    "approxMiles": 13,
+    "distanceTag": "NEARBY",
+    "priority": "PRIMARY"
   },
   {
     "id": "flagler-cultural-council",
@@ -57,7 +66,10 @@
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 14,
-    "pageFingerprint": "1efff8ed7ee84cf8"
+    "pageFingerprint": "1efff8ed7ee84cf8",
+    "approxMiles": 13,
+    "distanceTag": "NEARBY",
+    "priority": "PRIMARY"
   },
   {
     "id": "florida-ag-museum",
@@ -72,7 +84,10 @@
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 6,
-    "pageFingerprint": "9cd5ff45509d0d3b"
+    "pageFingerprint": "9cd5ff45509d0d3b",
+    "approxMiles": 6,
+    "distanceTag": "HOME TURF",
+    "priority": "PRIMARY"
   },
   {
     "id": "flagler-fair",
@@ -87,7 +102,10 @@
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 1,
-    "pageFingerprint": "bc1ce410fec46acb"
+    "pageFingerprint": "bc1ce410fec46acb",
+    "approxMiles": 20,
+    "distanceTag": "NEARBY",
+    "priority": "PRIMARY"
   },
   {
     "id": "flagler-schools-calendar",
@@ -102,7 +120,10 @@
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 148,
-    "pageFingerprint": "90d2778220fb9a71"
+    "pageFingerprint": "90d2778220fb9a71",
+    "approxMiles": 13,
+    "distanceTag": "NEARBY",
+    "priority": "PRIMARY"
   },
   {
     "id": "pcf-chamber-calendar",
@@ -117,7 +138,10 @@
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 0,
-    "pageFingerprint": "e10b3e14d26d8f7b"
+    "pageFingerprint": "e10b3e14d26d8f7b",
+    "approxMiles": 13,
+    "distanceTag": "NEARBY",
+    "priority": "PRIMARY"
   },
   {
     "id": "visit-staugustine-festivals",
@@ -132,7 +156,10 @@
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 15,
-    "pageFingerprint": "77a9027b4f37129a"
+    "pageFingerprint": "77a9027b4f37129a",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "priority": "SECONDARY"
   },
   {
     "id": "visit-staugustine-all",
@@ -147,7 +174,10 @@
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 9,
-    "pageFingerprint": "4696328f48ea8ca0"
+    "pageFingerprint": "4696328f48ea8ca0",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "priority": "SECONDARY"
   },
   {
     "id": "staugustine-city-calendar",
@@ -162,7 +192,10 @@
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 0,
-    "pageFingerprint": "fe61c7ba6340bbc2"
+    "pageFingerprint": "fe61c7ba6340bbc2",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "priority": "SECONDARY"
   },
   {
     "id": "stjohns-parks",
@@ -177,7 +210,10 @@
     "lastError": "",
     "lastTitle": "Parks & Recreation - St. Johns County",
     "lastCandidateCount": 4,
-    "pageFingerprint": "2d28e00a353fedbd"
+    "pageFingerprint": "2d28e00a353fedbd",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "priority": "SECONDARY"
   },
   {
     "id": "sjc-chamber-calendar",
@@ -192,7 +228,10 @@
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 2,
-    "pageFingerprint": "74a73e81f6a16f4a"
+    "pageFingerprint": "74a73e81f6a16f4a",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "priority": "SECONDARY"
   },
   {
     "id": "lions-festival",
@@ -207,7 +246,10 @@
     "lastError": "",
     "lastTitle": "St. Augustine Lions Seafood Festival | Visit St. Augustine",
     "lastCandidateCount": 11,
-    "pageFingerprint": "326c792ead5297d1"
+    "pageFingerprint": "326c792ead5297d1",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "priority": "SECONDARY"
   },
   {
     "id": "wesley-wells",
@@ -222,7 +264,10 @@
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 7,
-    "pageFingerprint": "30d3470f5e43f795"
+    "pageFingerprint": "30d3470f5e43f795",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "priority": "SECONDARY"
   },
   {
     "id": "artisun-registration",
@@ -237,7 +282,10 @@
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 0,
-    "pageFingerprint": "b0d22abf4fefae69"
+    "pageFingerprint": "b0d22abf4fefae69",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "priority": "SECONDARY"
   },
   {
     "id": "hastings-fall-harvest",
@@ -252,7 +300,10 @@
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 2,
-    "pageFingerprint": "79d35f09e3f42d58"
+    "pageFingerprint": "79d35f09e3f42d58",
+    "approxMiles": 34,
+    "distanceTag": "REASONABLE DRIVE",
+    "priority": "SECONDARY"
   },
   {
     "id": "sjc-parks-foundation",
@@ -267,6 +318,108 @@
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 1,
-    "pageFingerprint": "93a533e0c01c3329"
+    "pageFingerprint": "93a533e0c01c3329",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "priority": "SECONDARY"
+  },
+  {
+    "id": "ormond-city",
+    "name": "City of Ormond Beach — Events & News",
+    "kind": "Official city source",
+    "tier": 1,
+    "url": "https://www.ormondbeach.org/",
+    "county": "Volusia",
+    "approxMiles": 37,
+    "distanceTag": "REASONABLE DRIVE",
+    "priority": "REGIONAL"
+  },
+  {
+    "id": "ormond-food-trucks",
+    "name": "City of Ormond Beach — Mobile Food Vehicles",
+    "kind": "Official food-truck rules / business-development source",
+    "tier": 1,
+    "url": "https://www.ormondbeach.org/969/Food-Trucks",
+    "county": "Volusia",
+    "approxMiles": 37,
+    "distanceTag": "REASONABLE DRIVE",
+    "priority": "REGIONAL"
+  },
+  {
+    "id": "ormond-riverfest-2026",
+    "name": "Ormond MainStreet — Riverfest 2026 Vendor Registration",
+    "kind": "Food vendor registration",
+    "tier": 1,
+    "url": "https://app.seemylegacy.com/community/2739/campaign/9068",
+    "county": "Volusia",
+    "approxMiles": 37,
+    "distanceTag": "REASONABLE DRIVE",
+    "priority": "REGIONAL"
+  },
+  {
+    "id": "daytona-events",
+    "name": "Daytona Beach Area Events",
+    "kind": "Tourism / event discovery",
+    "tier": 2,
+    "url": "https://www.daytonabeach.com/events/",
+    "county": "Volusia",
+    "approxMiles": 42,
+    "distanceTag": "STRETCH",
+    "priority": "REGIONAL"
+  },
+  {
+    "id": "daytona-biketoberfest-vendors",
+    "name": "Biketoberfest Vendor Locations",
+    "kind": "Official CVB vendor-development source",
+    "tier": 1,
+    "url": "https://www.daytonabeach.com/biketoberfest/vendors/",
+    "county": "Volusia",
+    "approxMiles": 42,
+    "distanceTag": "STRETCH",
+    "priority": "REGIONAL"
+  },
+  {
+    "id": "daytona-food-fest-2026",
+    "name": "Daytona Food Fest 2026 — Food Vendor Application",
+    "kind": "Food vendor application",
+    "tier": 1,
+    "url": "https://www.eventeny.com/events/vendor/?id=51157",
+    "county": "Volusia",
+    "approxMiles": 42,
+    "distanceTag": "STRETCH",
+    "priority": "REGIONAL"
+  },
+  {
+    "id": "staug-alchemists-2026",
+    "name": "The Alchemist's Assembly — Food Vendor Application",
+    "kind": "Food vendor application",
+    "tier": 1,
+    "url": "https://www.eventeny.com/events/vendor/?id=52512",
+    "county": "St. Johns",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "priority": "SECONDARY"
+  },
+  {
+    "id": "ormond-falladays-2026",
+    "name": "Fall-A-Days Vendor Market",
+    "kind": "Vendor lead — verify food truck fit",
+    "tier": 2,
+    "url": "https://www.eventeny.com/events/vendor/?id=47388",
+    "county": "Volusia",
+    "approxMiles": 37,
+    "distanceTag": "REASONABLE DRIVE",
+    "priority": "REGIONAL"
+  },
+  {
+    "id": "flagler-good-times-dogbar",
+    "name": "Good Times Dog Bar Events",
+    "kind": "Recurring local food-truck venue lead",
+    "tier": 2,
+    "url": "https://www.goodtimesdogbar.com/events",
+    "county": "Flagler",
+    "approxMiles": 18,
+    "distanceTag": "NEARBY",
+    "priority": "PRIMARY"
   }
 ]

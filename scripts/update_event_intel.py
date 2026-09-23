@@ -114,6 +114,28 @@ def known_urls(events):
 def source_host(url: str) -> str:
     return urlsplit(url).netloc.lower().replace("www.", "")
 
+def distance_band(miles):
+    try:
+        miles = float(miles)
+    except (TypeError, ValueError):
+        return "DISTANCE UNKNOWN"
+    if miles <= 10:
+        return "HOME TURF"
+    if miles <= 20:
+        return "NEARBY"
+    if miles <= 40:
+        return "REASONABLE DRIVE"
+    return "STRETCH"
+
+def travel_tags(miles):
+    band = distance_band(miles)
+    tags = [band]
+    if band == "HOME TURF":
+        tags.append("LOCAL / LOW TRAVEL COST")
+    elif band == "STRETCH":
+        tags.append("LONG DRIVE")
+    return tags
+
 def fetch_source(src):
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     src["lastChecked"] = now
@@ -208,6 +230,11 @@ def main():
                 item["keywordHits"] = sorted(set(item.get("keywordHits", [])) | set(candidate["keywordHits"]))
                 item["score"] = max(int(item.get("score", 0)), candidate["score"])
                 item["signal"] = "high" if item["score"] >= 7 else ("medium" if item["score"] >= 4 else "low")
+                item["priority"] = src.get("priority", item.get("priority"))
+                item["approxMiles"] = src.get("approxMiles", item.get("approxMiles"))
+                item["distanceTag"] = src.get("distanceTag") or distance_band(item.get("approxMiles"))
+                item["profitPotential"] = item.get("profitPotential") or "UNKNOWN"
+                item["profitTags"] = item.get("profitTags") or travel_tags(item.get("approxMiles"))
                 continue
 
             fingerprint = hashlib.sha1(url.encode("utf-8")).hexdigest()[:12]
@@ -218,6 +245,11 @@ def main():
                 "sourceKind": src.get("kind"),
                 "sourceTier": src.get("tier"),
                 "county": src.get("county"),
+                "priority": src.get("priority"),
+                "approxMiles": src.get("approxMiles"),
+                "distanceTag": src.get("distanceTag") or distance_band(src.get("approxMiles")),
+                "profitPotential": "UNKNOWN",
+                "profitTags": travel_tags(src.get("approxMiles")),
                 "title": candidate["title"],
                 "url": url,
                 "keywordHits": candidate["keywordHits"],

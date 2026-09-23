@@ -25,7 +25,15 @@
     "confidence": "high",
     "sourceLabel": "SMART organizer",
     "sourceUrl": "https://smartflagler.com/",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 15,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "DESSERT COMPETITION UNKNOWN"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "flagler-pro-rodeo-2026",
@@ -50,7 +58,16 @@
     "nextAction": "Message the organizer for the food vendor coordinator and ask whether Friday only is available.",
     "confidence": "medium",
     "sourceLabel": "Organizer social / event research",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 20,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "DESSERT COMPETITION UNKNOWN",
+      "ATTENDANCE UNKNOWN"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "flagler-food-truck-friday-farm-series",
@@ -78,7 +95,16 @@
     "confidence": "high",
     "sourceLabel": "Visit Flagler / organizer",
     "sourceUrl": "https://www.visitflagler.com/event/food-truck-friday-on-the-farm/22750/",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 6,
+    "distanceTag": "HOME TURF",
+    "profitTags": [
+      "LOCAL / LOW TRAVEL COST",
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "WEATHER RISK"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "flagler-beats-eats-oct-2026",
@@ -106,7 +132,15 @@
     "confidence": "high",
     "sourceLabel": "City of Palm Coast",
     "sourceUrl": "https://www.palmcoast.gov/Events",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 15,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "DESSERT COMPETITION"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "flagler-st-elizabeth-fall-festival-2026",
@@ -132,7 +166,15 @@
     "nextAction": "Request the frozen dessert slot and ask whether a parish giveback is expected.",
     "confidence": "high",
     "sourceLabel": "Church vendor call",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 12,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "DESSERT COMPETITION"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "flagler-kix-country-fest-2026",
@@ -159,7 +201,14 @@
     "nextAction": "Request a dessert only opening and the all in truck quote.",
     "confidence": "high",
     "sourceLabel": "Organizer / event page",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 20,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "flagler-fall-arts-2026",
@@ -188,7 +237,17 @@
     "applicationUrl": "https://flaglerartsandculture.org/arts-festival-vendor-application/",
     "sourceLabel": "FC3 application",
     "sourceUrl": "https://flaglerartsandculture.org/arts-festival-vendor-application/",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 15,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "WEATHER RISK",
+      "DESSERT COMPETITION UNKNOWN",
+      "LOW FEE"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "flagler-a1a-garage-sale-2026",
@@ -216,7 +275,14 @@
     "nextAction": "Secure a strong Flagler host site before treating this as a real sales opportunity.",
     "confidence": "medium",
     "sourceLabel": "Scenic A1A organizer",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 15,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "flagler-tree-lighting-2026",
@@ -242,7 +308,14 @@
     "confidence": "high",
     "sourceLabel": "City of Palm Coast",
     "sourceUrl": "https://www.palmcoast.gov/Events",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 15,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "flagler-charming-sisters-2026",
@@ -267,7 +340,14 @@
     "nextAction": "Request the current food truck application and actual dessert lineup.",
     "confidence": "medium",
     "sourceLabel": "Organizer listing",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 20,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "flagler-putt-for-paws-2026",
@@ -293,7 +373,15 @@
     "nextAction": "Pitch a sponsor funded prepaid serving package instead of speculative public vending.",
     "confidence": "high",
     "sourceLabel": "Humane Society organizer",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 12,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "PREPAID POSSIBLE"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "flagler-creekside-2027",
@@ -321,7 +409,15 @@
     "nextAction": "Request the dated 2027 contract and food truck rate.",
     "confidence": "medium",
     "sourceLabel": "Organizer announcement / historical research",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 17,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "WEATHER RISK"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "flagler-native-american-2027",
@@ -347,7 +443,14 @@
     "nextAction": "Call for the food vendor application and confirm dates before treating it as booked opportunity.",
     "confidence": "medium",
     "sourceLabel": "Tourism listing / organizer contact",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 17,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL"
+    ],
+    "profitPotential": "MEDIUM"
   },
   {
     "id": "flagler-home-show-2027",
@@ -374,7 +477,14 @@
     "nextAction": "Ask for the 2027 application opening date and current food truck pricing.",
     "confidence": "medium",
     "sourceLabel": "Flagler Schools historical application",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 12,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL"
+    ],
+    "profitPotential": "UNKNOWN"
   },
   {
     "id": "flagler-fair-2027",
@@ -400,7 +510,16 @@
     "nextAction": "Ask to join a legitimate future food concession waiting list. Do not pay an unofficial seller.",
     "confidence": "medium",
     "sourceLabel": "Official fair / provisional federation listing",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 20,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "DESSERT COMPETITION UNKNOWN",
+      "ATTENDANCE UNKNOWN"
+    ],
+    "profitPotential": "LOW"
   },
   {
     "id": "flagler-touch-a-truck-2027",
@@ -425,7 +544,15 @@
     "confidence": "medium",
     "sourceLabel": "City historical event pages",
     "sourceUrl": "https://www.palmcoast.gov/Events",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 15,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "DESSERT COMPETITION"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "flagler-fcys-fall-2026",
@@ -451,7 +578,16 @@
     "nextAction": "Follow up with Becky for one busy fall game block and ask who approves concessions.",
     "confidence": "high",
     "sourceLabel": "Warm prior contact / league",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 12,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "SPORTS TRAFFIC",
+      "REPEAT POTENTIAL",
+      "DESSERT COMPETITION"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "flagler-schools-2026-27",
@@ -474,7 +610,15 @@
     "nextAction": "Call the school office and ask for the PTO event chair or athletic concessions decision maker.",
     "confidence": "high",
     "sourceLabel": "Official school contacts / opportunity guide",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 15,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "SPORTS TRAFFIC",
+      "REPEAT POTENTIAL"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "flagler-grand-haven-social",
@@ -500,7 +644,17 @@
     "nextAction": "Pitch a 90 minute host promoted ice cream social with prepaid treats or a minimum guarantee.",
     "confidence": "high",
     "sourceLabel": "Community management contact",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 12,
+    "distanceTag": "NEARBY",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "PREPAID POSSIBLE",
+      "MINIMUM GUARANTEE POSSIBLE",
+      "DESSERT COMPETITION"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "flagler-hammock-dunes-social",
@@ -526,7 +680,17 @@
     "nextAction": "Ask management for an introduction to the correct social committee and pitch a short scheduled dessert social.",
     "confidence": "high",
     "sourceLabel": "Community manager contacts",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 3,
+    "distanceTag": "HOME TURF",
+    "profitTags": [
+      "LOCAL / LOW TRAVEL COST",
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "PREPAID POSSIBLE",
+      "MINIMUM GUARANTEE POSSIBLE"
+    ],
+    "profitPotential": "HIGH"
   },
   {
     "id": "stjohns-wesley-wells-pumpkin-2026",
@@ -550,7 +714,14 @@
     "confidence": "medium",
     "sourceLabel": "Wesley Wells Farms event page",
     "sourceUrl": "https://wesleywellsfarm.com/pumpkin-festival-handmade-market/",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 34,
+    "distanceTag": "REASONABLE DRIVE",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL"
+    ],
+    "profitPotential": "MEDIUM"
   },
   {
     "id": "stjohns-jcp-market-series",
@@ -576,7 +747,17 @@
     "applicationUrl": "https://form.jotform.com/241145265797161",
     "sourceLabel": "ArtiSUN registration",
     "sourceUrl": "https://form.jotform.com/241145265797161",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "WEATHER RISK",
+      "DESSERT COMPETITION UNKNOWN",
+      "LOW FEE"
+    ],
+    "profitPotential": "MEDIUM"
   },
   {
     "id": "stjohns-ancient-city-kids-day-2026",
@@ -599,7 +780,15 @@
     "nextAction": "Find the current food vendor coordinator and ask whether frozen dessert space is available.",
     "confidence": "medium",
     "sourceLabel": "Visit St. Augustine / event research",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "DESSERT COMPETITION UNKNOWN"
+    ],
+    "profitPotential": "MEDIUM"
   },
   {
     "id": "stjohns-hastings-fall-harvest-2026",
@@ -625,7 +814,15 @@
     "applicationUrl": "https://www.eventeny.com/events/vendor/?id=48042",
     "sourceLabel": "Eventeny organizer application",
     "sourceUrl": "https://www.eventeny.com/events/vendor/?id=48042",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 34,
+    "distanceTag": "REASONABLE DRIVE",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "LOW FEE"
+    ],
+    "profitPotential": "MEDIUM"
   },
   {
     "id": "stjohns-startistine-2026",
@@ -651,7 +848,15 @@
     "applicationUrl": "https://form.jotform.com/241145265797161",
     "sourceLabel": "ArtiSUN registration / Visit St. Augustine",
     "sourceUrl": "https://www.visitstaugustine.com/events/festivals",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "HIGH FEE"
+    ],
+    "profitPotential": "MEDIUM"
   },
   {
     "id": "stjohns-key-lime-2026",
@@ -676,7 +881,14 @@
     "confidence": "high",
     "sourceLabel": "Festival organizer",
     "sourceUrl": "https://flkeylimepies.com/the-florida-key-lime-pie-festival/",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL"
+    ],
+    "profitPotential": "LOW"
   },
   {
     "id": "stjohns-lions-seafood-2027",
@@ -702,7 +914,14 @@
     "confidence": "high",
     "sourceLabel": "Lions Festival organizer",
     "sourceUrl": "https://lionsfestival.com/contact-applications/",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL"
+    ],
+    "profitPotential": "UNKNOWN"
   },
   {
     "id": "stjohns-silverleaf-candy-cane-2026",
@@ -726,7 +945,16 @@
     "nextAction": "Treat as a data quality warning, not an opportunity, unless the organizer confirms an opening.",
     "confidence": "low",
     "sourceLabel": "Eventeny conflicting listing",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "DESSERT COMPETITION UNKNOWN",
+      "LOW FEE"
+    ],
+    "profitPotential": "MEDIUM"
   },
   {
     "id": "stjohns-trailmark-food-truck",
@@ -749,7 +977,14 @@
     "nextAction": "Find the amenity or lifestyle coordinator and ask how trucks are selected for resident nights.",
     "confidence": "medium",
     "sourceLabel": "Community event research",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL"
+    ],
+    "profitPotential": "MEDIUM"
   },
   {
     "id": "stjohns-family-color-run-2026",
@@ -774,7 +1009,15 @@
     "confidence": "high",
     "sourceLabel": "St. Johns County Parks Foundation",
     "sourceUrl": "https://sjcpf.org/",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "profitTags": [
+      "FAMILY CROWD",
+      "SPORTS TRAFFIC",
+      "REPEAT POTENTIAL"
+    ],
+    "profitPotential": "MEDIUM"
   },
   {
     "id": "stjohns-cpb-festival-2027",
@@ -801,7 +1044,15 @@
     "confidence": "high",
     "sourceLabel": "Hastings Main Street + historical Eventeny application",
     "sourceUrl": "https://www.hastingsfl.org/festivals/",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 34,
+    "distanceTag": "REASONABLE DRIVE",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "HIGH FEE"
+    ],
+    "profitPotential": "UNKNOWN"
   },
   {
     "id": "stjohns-celtic-festival-2027",
@@ -826,6 +1077,139 @@
     "confidence": "medium",
     "sourceLabel": "Visit St. Augustine / organizer planning",
     "sourceUrl": "https://www.visitstaugustine.com/event/st-augustine-celtic-festival-highland-games",
-    "sourceChecked": "2026-09-22"
+    "sourceChecked": "2026-09-22",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "profitTags": [
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL"
+    ],
+    "profitPotential": "UNKNOWN"
+  },
+  {
+    "id": "stjohns-alchemists-assembly-2026",
+    "series": "The Alchemist's Assembly",
+    "name": "The Alchemist's Assembly — Food & Beverage Vendor",
+    "county": "St. Johns",
+    "city": "St. Augustine",
+    "venue": "Francis Field, 25 W Castillo Dr",
+    "dateStart": "2026-10-31",
+    "publicHours": "4:00 PM – 10:00 PM",
+    "deadline": "2026-10-01",
+    "type": "Festival / Halloween",
+    "opportunityType": "Vendor application",
+    "vendorStatus": "Vendor application",
+    "organizer": "Gather & Glow Events",
+    "contactEmail": "hello@gatherandglowevents.fun",
+    "feeDisplay": "$225 food truck / food & beverage truck or tent",
+    "feeNotes": "Food & beverage truck/tent fee is $225 and non-refundable unless the organizer cancels. Beverage-only is $150.",
+    "audience": "Halloween evening crowd, families, themed-event visitors and downtown St. Augustine traffic.",
+    "competition": "No category exclusivity is guaranteed. Organizer may accept similar vendors and reviews menus to reduce unnecessary duplication.",
+    "requirements": "Menu, truck photo, Florida DBPR mobile food license, liability insurance, sales tax certificate and applicable St. Augustine fire-safety compliance. Themed presentation is encouraged.",
+    "power": "Limited electrical hookups may be requested but are not guaranteed. Self-contained generators are allowed if safely operated and not excessively noisy.",
+    "weather": "Rain or shine. No weather refund; if organizer cancels, fees may be refunded or transferred at organizer discretion.",
+    "nextAction": "Review the Eventeny application immediately and decide before the Oct. 1 deadline. Ask specifically how many frozen-dessert vendors are being accepted.",
+    "confidence": "high",
+    "sourceLabel": "Eventeny organizer application",
+    "sourceUrl": "https://www.eventeny.com/events/vendor/?id=52512",
+    "applicationUrl": "https://www.eventeny.com/events/vendor/?id=52512",
+    "sourceChecked": "2026-09-23",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "profitPotential": "MEDIUM",
+    "profitTags": [
+      "FAMILY / HALLOWEEN CROWD",
+      "6-HOUR SERVICE WINDOW",
+      "HIGH FEE",
+      "DESSERT COMPETITION POSSIBLE",
+      "RAIN OR SHINE",
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "WEATHER RISK",
+      "DESSERT COMPETITION"
+    ]
+  },
+  {
+    "id": "volusia-daytona-food-fest-2026",
+    "series": "Daytona Food Fest & Craft Fair",
+    "name": "3rd Annual Daytona Food Fest & Craft Fair",
+    "county": "Volusia",
+    "city": "Daytona Beach",
+    "venue": "Tanger Outlets Daytona, 1100 Cornerstone Blvd",
+    "dateStart": "2026-11-07",
+    "publicHours": "11:00 AM – 8:00 PM",
+    "deadline": "2026-10-29",
+    "type": "Food festival",
+    "opportunityType": "Food vendor application",
+    "vendorStatus": "Vendor application",
+    "organizer": "Battle Bros Events",
+    "feeDisplay": "$200 food vendor fee",
+    "feeNotes": "Accepted food vendors pay a non-refundable $200 fee and keep 100% of food and beverage sales.",
+    "audience": "Food-focused festival and craft-fair crowd at Tanger Outlets.",
+    "competition": "Food-focused event likely has substantial food competition. Confirm how many frozen-dessert vendors and whether shaved ice / ice cream categories remain open.",
+    "requirements": "Food license required. Trucks using suppression systems or gas may need hood suppression inspection, hood cleaning certificate and gas leak documentation. Vendor provides own power/setup.",
+    "power": "Vendor is responsible for power and setup.",
+    "history": "Third annual event. Organizer describes it as a large, diverse food festival; no audited attendance figure was verified in today's check.",
+    "nextAction": "Ask Battle Bros whether the frozen-dessert category is still open before paying. The $5 maximum per-serving rule is important for Scoops economics.",
+    "confidence": "high",
+    "sourceLabel": "Eventeny food vendor application",
+    "sourceUrl": "https://www.eventeny.com/events/vendor/?id=51157",
+    "applicationUrl": "https://www.eventeny.com/events/vendor/?id=51157",
+    "sourceChecked": "2026-09-23",
+    "approxMiles": 42,
+    "distanceTag": "STRETCH",
+    "profitPotential": "MEDIUM",
+    "profitTags": [
+      "FOOD-FOCUSED CROWD",
+      "LONG SERVICE WINDOW",
+      "HIGH FEE",
+      "LONG DRIVE",
+      "$5 MENU CAP",
+      "KEEP 100% SALES",
+      "FAMILY CROWD",
+      "REPEAT POTENTIAL",
+      "DESSERT COMPETITION"
+    ]
+  },
+  {
+    "id": "volusia-riverfest-2026",
+    "series": "Riverfest",
+    "name": "Riverfest 2026 — Food Vendor Registration",
+    "county": "Volusia",
+    "city": "Ormond Beach",
+    "venue": "The Casements, 25 Riverside Dr",
+    "dateStart": "2026-11-21",
+    "dateEnd": "2026-11-22",
+    "publicHours": "Confirm food-vendor service hours",
+    "deadline": "2026-10-21",
+    "type": "Festival / waterfront",
+    "opportunityType": "Food vendor registration",
+    "vendorStatus": "Vendor application",
+    "organizer": "Ormond MainStreet",
+    "feeDisplay": "Location-based pricing — verify food-vendor tier before paying",
+    "feeNotes": "2026 uses location-based pricing with multiple festival zones. The accessible registration page confirms a dedicated Food Vendor Registration but does not expose the food-vendor price in text.",
+    "audience": "Two-day community waterfront festival crowd.",
+    "competition": "Ask for the current food-vendor roster and specifically how many frozen-dessert vendors are approved.",
+    "requirements": "Review the food-vendor registration, venue map and pricing tier before submitting.",
+    "power": "Verify generator and electrical options with Ormond MainStreet.",
+    "nextAction": "Open the dedicated Food Vendor Registration and get the exact food-truck rate, placement zone, service hours and dessert-category availability.",
+    "confidence": "high",
+    "sourceLabel": "Ormond MainStreet vendor registration",
+    "sourceUrl": "https://app.seemylegacy.com/community/2739/campaign/9068",
+    "applicationUrl": "https://app.seemylegacy.com/community/2739/campaign/9068",
+    "sourceChecked": "2026-09-23",
+    "approxMiles": 37,
+    "distanceTag": "REASONABLE DRIVE",
+    "profitPotential": "UNKNOWN",
+    "profitTags": [
+      "2-DAY EVENT",
+      "REASONABLE DRIVE",
+      "FEE UNKNOWN",
+      "REPEAT POTENTIAL",
+      "DESSERT COMPETITION UNKNOWN",
+      "FAMILY CROWD",
+      "DESSERT COMPETITION",
+      "ATTENDANCE UNKNOWN"
+    ]
   }
 ]

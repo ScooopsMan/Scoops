@@ -50,7 +50,7 @@ a{color:inherit}
 .filters{display:flex;gap:8px;flex-wrap:wrap;margin:4px 0 12px}.filter{background:#0b2336;color:#d9eaf3;border:1px solid #31566e;padding:7px 10px;border-radius:999px;cursor:pointer;font-weight:800;font-size:11px}.filter.active{background:var(--aqua);border-color:var(--aqua);color:#062232}
 .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:11px}
 .event{border:1px solid #2d536c;border-radius:17px;background:linear-gradient(180deg,#132f47,#0d2436);overflow:hidden}
-.eventTop{padding:13px}.eventLine{display:flex;justify-content:space-between;gap:10px;align-items:flex-start}.event h3{margin:5px 0 4px;font-size:17px}.event .meta{color:#a9c1cf;font-size:11px;line-height:1.45}.badges{display:flex;gap:5px;flex-wrap:wrap;margin:8px 0}.badge{font-size:9px;font-weight:950;letter-spacing:.55px;text-transform:uppercase;border-radius:999px;padding:5px 7px;border:1px solid #41657b}.badge.open{background:rgba(86,214,154,.14);color:#8cf0bb;border-color:#3f996e}.badge.verify{background:rgba(255,173,90,.14);color:#ffc88f;border-color:#9e6c3b}.badge.pipeline{background:rgba(18,175,192,.14);color:#81eaf1;border-color:#2c8992}.badge.relationship{background:rgba(178,156,255,.14);color:#d6caff;border-color:#6d5dae}.badge.closed{background:#24333d;color:#b7c4cb}.badge.flagler{color:#87e8ee}.badge.stjohns{color:#ffd97d}
+.eventTop{padding:13px}.eventLine{display:flex;justify-content:space-between;gap:10px;align-items:flex-start}.event h3{margin:5px 0 4px;font-size:17px}.event .meta{color:#a9c1cf;font-size:11px;line-height:1.45}.badges{display:flex;gap:5px;flex-wrap:wrap;margin:8px 0}.badge{font-size:9px;font-weight:950;letter-spacing:.55px;text-transform:uppercase;border-radius:999px;padding:5px 7px;border:1px solid #41657b}.badge.open{background:rgba(86,214,154,.14);color:#8cf0bb;border-color:#3f996e}.badge.verify{background:rgba(255,173,90,.14);color:#ffc88f;border-color:#9e6c3b}.badge.pipeline{background:rgba(18,175,192,.14);color:#81eaf1;border-color:#2c8992}.badge.relationship{background:rgba(178,156,255,.14);color:#d6caff;border-color:#6d5dae}.badge.closed{background:#24333d;color:#b7c4cb}.badge.flagler{color:#87e8ee}.badge.stjohns{color:#ffd97d}.badge.volusia{color:#ffb4cf}.badge.distance{color:#9ee8ff;border-color:#427d91}.badge.home{color:#9af3c3;border-color:#3f956c;background:rgba(86,214,154,.10)}.badge.profitHigh{color:#9af3c3;border-color:#3f956c;background:rgba(86,214,154,.12)}.badge.profitMedium{color:#ffe397;border-color:#88743c;background:rgba(245,205,87,.10)}.badge.profitLow{color:#ffaaa7;border-color:#875050;background:rgba(255,107,107,.10)}.badge.profitUnknown{color:#c9d6df}
 .eventActions{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}.mini{font-size:10px;padding:7px 9px;border-radius:9px;border:1px solid #355b72;background:#15344b;color:#eaf8ff;cursor:pointer;font-weight:900}.mini:hover{border-color:var(--aqua)}.mini.gold{color:#182d3d;background:var(--yellow);border-color:var(--yellow)}
 .eventDetails{border-top:1px solid #26495f;padding:12px 13px;background:#0b2132;display:none}.event.openDetails .eventDetails{display:block}.detailgrid{display:grid;grid-template-columns:1fr 1fr;gap:8px}.detail{padding:8px;background:#102b40;border-radius:10px}.detail b{display:block;font-size:9px;text-transform:uppercase;letter-spacing:.6px;color:#7fb1c9;margin-bottom:3px}.detail span{font-size:11px;line-height:1.4}.sourceRow{margin-top:10px;font-size:10px;color:#7fa2b6}.sourceRow a{color:var(--aqua2)}
 .empty{padding:25px;text-align:center;color:var(--muted)}
@@ -177,6 +177,7 @@ a{color:inherit}
     <a class="navlink" href="#open">🟢 Open Now <span class="count" id="navOpen">0</span></a>
     <a class="navlink" href="#flagler">🌴 Flagler</a>
     <a class="navlink" href="#stjohns">🏰 St. Johns</a>
+    <a class="navlink" href="#volusia">🏁 NE Volusia</a>
   </div>
   <div class="navgroup">
     <div class="navlabel">Opportunity Types</div>
@@ -222,7 +223,7 @@ a{color:inherit}
         <div class="brandEyebrow">Private business dashboard</div>
         <h1>Scoops by the Sea</h1>
         <div class="heroProduct">Event &amp; Vendor Radar</div>
-        <div class="heroLocation">Flagler + St. Johns Counties</div>
+        <div class="heroLocation">Flagler • St. Johns • Northeast Volusia</div>
       </div>
     </div>
     <div class="heroSlogan">Find the crowd. Book the date. Learn what actually pays.</div>
@@ -281,6 +282,11 @@ a{color:inherit}
 <section class="section sectionbox" id="stjohns">
   <div class="sectionhead"><div><div class="kicker">Northbound opportunities</div><h2>🏰 St. Johns County</h2><small>St. Augustine, Hastings, Julington Creek and nearby communities</small></div><div class="chev">▼</div></div>
   <div class="sectionbody"><div class="grid" id="stjohnsGrid"></div></div>
+</section>
+
+<section class="section sectionbox" id="volusia">
+  <div class="sectionhead"><div><div class="kicker">Worth the drive when the numbers work</div><h2>🏁 Northeast Volusia</h2><small>Ormond Beach, Ormond-by-the-Sea and Daytona opportunities within or near the 40-mile target</small></div><div class="chev">▼</div></div>
+  <div class="sectionbody"><div class="grid" id="volusiaGrid"></div></div>
 </section>
 
 <section class="section sectionbox" id="sports">
@@ -621,6 +627,7 @@ function renderAll(){
   renderGrid('openGrid',e=>isActionable(e)&&(active==='all'||(e.type||'').toLowerCase().includes(active)));
   renderGrid('flaglerGrid',e=>e.county==='Flagler'&&isUpcoming(e));
   renderGrid('stjohnsGrid',e=>e.county==='St. Johns'&&isUpcoming(e));
+  renderGrid('volusiaGrid',e=>e.county==='Volusia'&&isUpcoming(e));
   renderGrid('sportsGrid',e=>/sport|school|race/i.test((e.type||'')+' '+(e.opportunityType||''))&&isUpcoming(e));
   renderGrid('festivalGrid',e=>/festival|market|food truck|fair|holiday|rodeo/i.test((e.type||'')+' '+(e.opportunityType||''))&&isUpcoming(e));
   renderGrid('privateGrid',e=>/private|community|hoa|church|resort|employer/i.test((e.type||'')+' '+(e.opportunityType||''))&&isUpcoming(e));
@@ -724,6 +731,16 @@ function setPipeline(id,value){
   if(['Emailed','Applied','Waitlist','Accepted','Booked','Completed'].includes(value)&&!state.contacted.includes(id))state.contacted.push(id);
   persist();renderEverything();toast('Pipeline: '+value)
 }
+function opportunityMetaHTML(e){
+  const miles=Number(e.approxMiles),hasMiles=Number.isFinite(miles);
+  const dist=e.distanceTag||(hasMiles?(miles<=10?'HOME TURF':miles<=20?'NEARBY':miles<=40?'REASONABLE DRIVE':'STRETCH'):'DISTANCE UNKNOWN');
+  const p=String(e.profitPotential||'UNKNOWN').toUpperCase();
+  const pClass=p==='HIGH'?'profitHigh':p==='MEDIUM'?'profitMedium':p==='LOW'?'profitLow':'profitUnknown';
+  const distClass=dist==='HOME TURF'?'home':'distance';
+  let html='<span class="badge '+distClass+'">'+esc(dist)+(hasMiles?' • APPX '+esc(Math.round(miles))+' MI':'')+'</span><span class="badge '+pClass+'">'+esc(p)+' PROFIT POTENTIAL</span>';
+  for(const tag of (e.profitTags||[]))html+='<span class="badge">'+esc(tag)+'</span>';
+  return html
+}
 function followUpInfo(e){
   const stage=state.pipeline[e.id]||'New',meta=state.pipelineMeta[e.id],days=meta?.changedAt?ageDays(meta.changedAt):null;
   if(stage==='Emailed'&&days!=null)return days>=6?{due:true,text:'FOLLOW UP • emailed '+days+' days ago'}:{due:false,text:'Emailed '+days+' days ago'};
@@ -735,17 +752,17 @@ function followUpInfo(e){
 }
 function card(e){
   const saved=state.saved.includes(e.id),contacted=state.contacted.includes(e.id),pipeline=state.pipeline[e.id]||'New';
-  const countyClass=e.county==='Flagler'?'flagler':'stjohns',fee=e.feeDisplay||'Ask / not published';
+  const countyClass=e.county==='Flagler'?'flagler':e.county==='St. Johns'?'stjohns':'volusia',fee=e.feeDisplay||'Ask / not published';
   const deadline=e.deadline?fmtDate(e.deadline)+(daysUntil(e.deadline)>=0?' • '+daysUntil(e.deadline)+' days':' • passed'):'None published';
   const app=e.applicationUrl?'<a class="mini gold" href="'+esc(e.applicationUrl)+'" target="_blank" rel="noopener">Apply / details ↗</a>':'';
   const note=state.notes[e.id]||'',follow=followUpInfo(e);
   return '<article class="event" data-id="'+esc(e.id)+'">'+
     '<div class="eventTop"><div class="eventLine"><div><div class="kicker">'+esc(e.opportunityType||e.type||'Opportunity')+'</div><h3>'+esc(e.name)+'</h3><div class="meta">'+esc(fmtDate(e.dateStart))+(e.publicHours?' • '+esc(e.publicHours):'')+'<br>'+esc(e.venue||'Venue TBD')+(e.city?' • '+esc(e.city):'')+'</div></div><button class="mini" onclick="toggleDetails(this)">Details</button></div>'+
-    '<div class="badges"><span class="badge '+statusClass(e.vendorStatus)+'">'+esc(e.vendorStatus||'Pipeline')+'</span><span class="badge '+countyClass+'">'+esc(e.county||'')+'</span>'+freshnessHTML(e)+(e.confidence?'<span class="badge">'+esc(e.confidence)+' confidence</span>':'')+'</div>'+
+    '<div class="badges"><span class="badge '+statusClass(e.vendorStatus)+'">'+esc(e.vendorStatus||'Pipeline')+'</span><span class="badge '+countyClass+'">'+esc(e.county||'')+'</span>'+freshnessHTML(e)+(e.confidence?'<span class="badge">'+esc(e.confidence)+' confidence</span>':'')+opportunityMetaHTML(e)+'</div>'+
     '<div class="meta"><b style="color:#fff">Fee:</b> '+esc(fee)+' &nbsp; <b style="color:#fff">Deadline:</b> '+esc(deadline)+'</div>'+quickBreakEvenHTML(e)+(follow?'<div class="followFlag '+(follow.due?'':'ok')+'">'+esc(follow.text)+'</div>':'')+
     '<select class="pipelineSelect" onchange="setPipeline(\''+esc(e.id)+'\',this.value)">'+pipelineOptions(pipeline)+'</select>'+
     '<div class="eventActions"><button class="mini '+(saved?'gold':'')+'" onclick="toggleSaved(\''+esc(e.id)+'\')">'+(saved?'★ Saved':'☆ Save')+'</button><button class="mini '+(contacted?'gold':'')+'" onclick="toggleContacted(\''+esc(e.id)+'\')">'+(contacted?'✓ Contacted':'Mark contacted')+'</button><button class="mini" onclick="emailFromEvent(\''+esc(e.id)+'\')">✉ Email</button><button class="mini" onclick="loadEconomicsEvent(\''+esc(e.id)+'\')">💰 Math</button>'+app+'</div></div>'+
-    '<div class="eventDetails"><div class="detailgrid">'+detail('Organizer',e.organizer)+detail('Contact',[e.contactName,e.contactEmail,e.contactPhone].filter(Boolean).join(' • '))+detail('Audience',e.audience)+detail('Competition',e.competition)+detail('Requirements',e.requirements)+detail('Power',e.power)+detail('History',e.history)+detail('Next action',e.nextAction)+detail('Fee notes',e.feeNotes)+detail('Weather / refund',e.weather)+'</div>'+
+    '<div class="eventDetails"><div class="detailgrid">'+detail('Organizer',e.organizer)+detail('Contact',[e.contactName,e.contactEmail,e.contactPhone].filter(Boolean).join(' • '))+detail('Distance from Malacompra',e.approxMiles!=null?'Approximately '+e.approxMiles+' driving miles one way • '+(e.distanceTag||''):'Not estimated yet')+detail('Profit potential',(e.profitPotential||'UNKNOWN')+((e.profitTags||[]).length?' • '+e.profitTags.join(' • '):''))+detail('Audience',e.audience)+detail('Competition',e.competition)+detail('Requirements',e.requirements)+detail('Power',e.power)+detail('History',e.history)+detail('Next action',e.nextAction)+detail('Fee notes',e.feeNotes)+detail('Weather / refund',e.weather)+'</div>'+
     '<div class="miniLabel">Mike + Stan notes</div><textarea class="noteArea" onchange="setEventNote(\''+esc(e.id)+'\',this.value)" placeholder="What did they say? Who did you talk to? Anything weird about the fee, placement or competition?">'+esc(note)+'</textarea>'+
     '<div class="sourceRow">Source: '+esc(e.sourceLabel||'research')+(e.sourceUrl?' • <a href="'+esc(e.sourceUrl)+'" target="_blank" rel="noopener">open source ↗</a>':'')+(e.sourceChecked?' • checked '+esc(e.sourceChecked):'')+'</div></div></article>'
 }
@@ -824,7 +841,7 @@ function renderDiscoveries(){
   document.getElementById('navDiscoveries').textContent=ranked.length;
   const target=document.getElementById('discoveryList');
   if(!ranked.length){target.innerHTML='<div class="empty">No medium/high-signal discoveries waiting for review.</div>';return}
-  target.innerHTML=ranked.map(d=>'<div class="discovery"><div class="badges"><span class="badge '+(d.signal==='high'?'open':'verify')+'">'+esc((d.signal||'review')+' signal')+'</span>'+(d.sourceTier?'<span class="badge">Tier '+esc(d.sourceTier)+'</span>':'')+'</div><a href="'+esc(d.url)+'" target="_blank" rel="noopener">'+esc(d.title||d.url)+' ↗</a><small>'+esc(d.sourceName||d.sourceId||'Source')+' • first seen '+esc(d.firstSeen||'')+(d.score?' • score '+esc(d.score):'')+'</small><div class="discoveryActions"><button class="mini gold" onclick="addDiscoveryToForm(\''+d.id+'\')">+ Add lead</button><button class="mini" onclick="reviewDiscovery(\''+d.id+'\',\'reviewed\')">✓ Reviewed</button><button class="mini" onclick="reviewDiscovery(\''+d.id+'\',\'ignored\')">Ignore</button></div></div>').join('')
+  target.innerHTML=ranked.map(d=>'<div class="discovery"><div class="badges"><span class="badge '+(d.signal==='high'?'open':'verify')+'">'+esc((d.signal||'review')+' signal')+'</span>'+(d.sourceTier?'<span class="badge">Tier '+esc(d.sourceTier)+'</span>':'')+(d.distanceTag?'<span class="badge distance">'+esc(d.distanceTag)+(d.approxMiles!=null?' • APPX '+esc(d.approxMiles)+' MI':'')+'</span>':'')+'<span class="badge '+(d.profitPotential==='HIGH'?'profitHigh':d.profitPotential==='MEDIUM'?'profitMedium':d.profitPotential==='LOW'?'profitLow':'profitUnknown')+'">'+esc(d.profitPotential||'UNKNOWN')+' PROFIT POTENTIAL</span></div><a href="'+esc(d.url)+'" target="_blank" rel="noopener">'+esc(d.title||d.url)+' ↗</a><small>'+esc(d.sourceName||d.sourceId||'Source')+' • first seen '+esc(d.firstSeen||'')+'</small><div class="discoveryActions"><button class="mini gold" onclick="addDiscoveryToForm(\''+d.id+'\')">+ Add lead</button><button class="mini" onclick="reviewDiscovery(\''+d.id+'\',\'reviewed\')">✓ Reviewed</button><button class="mini" onclick="reviewDiscovery(\''+d.id+'\',\'ignored\')">Ignore</button></div></div>').join('')
 }
 function intelMatch(obj){const q=(document.getElementById('searchInput')?.value||'').trim().toLowerCase();return !q||JSON.stringify(obj).toLowerCase().includes(q)}
 function renderOrganizers(){document.getElementById('organizerGrid').innerHTML=ORGANIZERS.filter(intelMatch).map(o=>'<div class="intelCard"><div class="kicker">'+esc(o.county)+' • '+esc(o.type||'Organizer')+'</div><h3>'+esc(o.name)+'</h3><p>'+esc(o.relationship||'')+'</p><p><b>Controls:</b> '+esc((o.controls||[]).join(' • '))+'</p>'+(o.email||o.phone?'<p><b>Contact:</b> '+esc([o.email,o.phone].filter(Boolean).join(' • '))+'</p>':'')+'<div class="ask"><b>Best next ask:</b><br>'+esc(o.ask||'')+'</div>'+(o.url?'<div class="eventActions"><a class="mini" href="'+esc(o.url)+'" target="_blank" rel="noopener">Open organizer ↗</a><button class="mini" onclick="organizerEmail(\''+esc(o.id)+'\')">✉ Draft email</button></div>':'')+'</div>').join('')||'<div class="empty">No organizer matches.</div>'}
