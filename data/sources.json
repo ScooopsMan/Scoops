@@ -6,13 +6,13 @@
     "tier": 1,
     "url": "https://www.palmcoast.gov/Events",
     "county": "Flagler",
-    "lastChecked": "2026-09-23T00:40:54+00:00",
+    "lastChecked": "2026-09-23T19:27:27+00:00",
     "lastHttpStatus": 200,
     "lastTitle": "Events | Palm Coast Connect",
     "lastStatus": "OK",
     "lastError": "",
-    "lastCandidateCount": 9,
-    "pageFingerprint": "69a293bf3408c67f"
+    "lastCandidateCount": 8,
+    "pageFingerprint": "12c3f07cb1fda39b"
   },
   {
     "id": "flagler-beach-calendar",
@@ -21,13 +21,13 @@
     "tier": 1,
     "url": "https://www.cityofflaglerbeach.com/calendar.aspx",
     "county": "Flagler",
-    "lastChecked": "2026-09-23T00:40:54+00:00",
+    "lastChecked": "2026-09-23T19:27:27+00:00",
     "lastHttpStatus": 200,
     "lastTitle": "Calendar • Flagler Beach, FL • CivicEngage",
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 1,
-    "pageFingerprint": "32a373dfb3d87d9c"
+    "pageFingerprint": "3298aeb7da5cdfdd"
   },
   {
     "id": "visit-flagler-events",
@@ -36,13 +36,13 @@
     "tier": 2,
     "url": "https://www.visitflagler.com/events/",
     "county": "Flagler",
-    "lastChecked": "2026-09-23T00:40:55+00:00",
+    "lastChecked": "2026-09-23T19:27:28+00:00",
     "lastHttpStatus": 200,
     "lastTitle": "Events & Activities in Palm Coast | Flagler Beach Happenings",
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 6,
-    "pageFingerprint": "4811c26bfe6c5b90"
+    "pageFingerprint": "ebe844ec34e68c16"
   },
   {
     "id": "flagler-cultural-council",
@@ -51,13 +51,13 @@
     "tier": 1,
     "url": "https://flaglerartsandculture.org/",
     "county": "Flagler",
-    "lastChecked": "2026-09-23T00:40:56+00:00",
+    "lastChecked": "2026-09-23T19:27:28+00:00",
     "lastHttpStatus": 200,
     "lastTitle": "Flagler County Cultural Council",
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 14,
-    "pageFingerprint": "88658f31d7dc0812"
+    "pageFingerprint": "1efff8ed7ee84cf8"
   },
   {
     "id": "florida-ag-museum",
@@ -66,13 +66,13 @@
     "tier": 2,
     "url": "https://www.visitflagler.com/event/food-truck-friday-on-the-farm/22750/",
     "county": "Flagler",
-    "lastChecked": "2026-09-23T00:40:56+00:00",
+    "lastChecked": "2026-09-23T19:27:28+00:00",
     "lastHttpStatus": 200,
     "lastTitle": "Food Truck Friday on the Farm | Palm Coast, FL 32137",
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 6,
-    "pageFingerprint": "ee67b17fde262d18"
+    "pageFingerprint": "9cd5ff45509d0d3b"
   },
   {
     "id": "flagler-fair",
@@ -81,7 +81,7 @@
     "tier": 1,
     "url": "https://flaglercountyfair.com/",
     "county": "Flagler",
-    "lastChecked": "2026-09-23T00:40:56+00:00",
+    "lastChecked": "2026-09-23T19:27:29+00:00",
     "lastHttpStatus": 200,
     "lastTitle": "Flagler County Fair & Youth Show Inc. | Celebrating Youth, Agriculture & Community",
     "lastStatus": "OK",
@@ -96,7 +96,7 @@
     "tier": 1,
     "url": "https://www.flaglerschools.com/411722_2",
     "county": "Flagler",
-    "lastChecked": "2026-09-23T00:40:57+00:00",
+    "lastChecked": "2026-09-23T19:27:29+00:00",
     "lastHttpStatus": 200,
     "lastTitle": "Flagler Schools - Calendar",
     "lastStatus": "OK",
@@ -111,7 +111,7 @@
     "tier": 2,
     "url": "https://business.pcfchamber.com/chambereventscalendar",
     "county": "Flagler",
-    "lastChecked": "2026-09-23T00:40:58+00:00",
+    "lastChecked": "2026-09-23T19:27:30+00:00",
     "lastHttpStatus": 200,
     "lastTitle": "Calendar  - Palm Coast-Flagler Regional Chamber of Commerce",
     "lastStatus": "OK",
@@ -126,13 +126,13 @@
     "tier": 2,
     "url": "https://www.visitstaugustine.com/events/festivals",
     "county": "St. Johns",
-    "lastChecked": "2026-09-23T00:40:58+00:00",
+    "lastChecked": "2026-09-23T19:27:30+00:00",
     "lastHttpStatus": 200,
     "lastTitle": "St. Augustine Festivals | Visit St. Augustine",
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 15,
-    "pageFingerprint": "9acbb2843f79bd53"
+    "pageFingerprint": "77a9027b4f37129a"
   },
   {
     "id": "visit-staugustine-all",
@@ -141,13 +141,13 @@
     "tier": 2,
     "url": "https://www.visitstaugustine.com/events/all",
     "county": "St. Johns",
-    "lastChecked": "2026-09-23T00:40:58+00:00",
+    "lastChecked": "2026-09-23T19:27:31+00:00",
     "lastHttpStatus": 200,
     "lastTitle": "St. Augustine's Top Events and Things to Do | Visit St. Augustine",
     "lastStatus": "OK",
     "lastError": "",
-    "lastCandidateCount": 10,
-    "pageFingerprint": "3df6362d9d601b6f"
+    "lastCandidateCount": 9,
+    "pageFingerprint": "4696328f48ea8ca0"
   },
   {
     "id": "staugustine-city-calendar",
@@ -156,13 +156,13 @@
     "tier": 1,
     "url": "https://www.citystaug.com/calendar.aspx",
     "county": "St. Johns",
-    "lastChecked": "2026-09-23T00:40:59+00:00",
+    "lastChecked": "2026-09-23T19:27:31+00:00",
     "lastHttpStatus": 200,
     "lastTitle": "Calendar • St. Augustine, FL • CivicEngage",
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 0,
-    "pageFingerprint": "7edb61b0f1302add"
+    "pageFingerprint": "fe61c7ba6340bbc2"
   },
   {
     "id": "stjohns-parks",
@@ -171,13 +171,13 @@
     "tier": 1,
     "url": "https://www.sjcfl.us/departments/parks-recreation/",
     "county": "St. Johns",
-    "lastChecked": "2026-09-23T00:41:00+00:00",
+    "lastChecked": "2026-09-23T19:27:32+00:00",
     "lastHttpStatus": 200,
     "lastStatus": "OK",
     "lastError": "",
     "lastTitle": "Parks & Recreation - St. Johns County",
     "lastCandidateCount": 4,
-    "pageFingerprint": "4840d8d7a734259a"
+    "pageFingerprint": "2d28e00a353fedbd"
   },
   {
     "id": "sjc-chamber-calendar",
@@ -186,13 +186,13 @@
     "tier": 2,
     "url": "https://business.sjcchamber.com/calendar",
     "county": "St. Johns",
-    "lastChecked": "2026-09-23T00:41:01+00:00",
+    "lastChecked": "2026-09-23T19:27:34+00:00",
     "lastHttpStatus": 200,
     "lastTitle": "Calendar  - St. Johns County Chamber of Commerce",
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 2,
-    "pageFingerprint": "7e846e1b37ea6765"
+    "pageFingerprint": "74a73e81f6a16f4a"
   },
   {
     "id": "lions-festival",
@@ -201,13 +201,13 @@
     "tier": 2,
     "url": "https://www.visitstaugustine.com/event/st-augustine-lions-seafood-festival",
     "county": "St. Johns",
-    "lastChecked": "2026-09-23T00:41:01+00:00",
+    "lastChecked": "2026-09-23T19:27:34+00:00",
     "lastHttpStatus": 200,
     "lastStatus": "OK",
     "lastError": "",
     "lastTitle": "St. Augustine Lions Seafood Festival | Visit St. Augustine",
     "lastCandidateCount": 11,
-    "pageFingerprint": "a43cbc9cc91133b6"
+    "pageFingerprint": "326c792ead5297d1"
   },
   {
     "id": "wesley-wells",
@@ -216,13 +216,13 @@
     "tier": 1,
     "url": "https://wesleywellsfarm.com/",
     "county": "St. Johns",
-    "lastChecked": "2026-09-23T00:41:01+00:00",
+    "lastChecked": "2026-09-23T19:27:35+00:00",
     "lastHttpStatus": 200,
     "lastTitle": "Wesley Wells Farms in St Augustine, FL - Wesley Wells Farms St Augustine, Florida",
     "lastStatus": "OK",
     "lastError": "",
-    "lastCandidateCount": 8,
-    "pageFingerprint": "fc4b92261466181b"
+    "lastCandidateCount": 7,
+    "pageFingerprint": "30d3470f5e43f795"
   },
   {
     "id": "artisun-registration",
@@ -231,7 +231,7 @@
     "tier": 1,
     "url": "https://form.jotform.com/241145265797161",
     "county": "St. Johns",
-    "lastChecked": "2026-09-23T00:41:02+00:00",
+    "lastChecked": "2026-09-23T19:27:36+00:00",
     "lastHttpStatus": 200,
     "lastTitle": "ArtiSUN Markets Event Vendor Registration Form",
     "lastStatus": "OK",
@@ -246,13 +246,13 @@
     "tier": 1,
     "url": "https://www.eventeny.com/events/vendor/?id=48042",
     "county": "St. Johns",
-    "lastChecked": "2026-09-23T00:41:02+00:00",
+    "lastChecked": "2026-09-23T19:27:36+00:00",
     "lastHttpStatus": 200,
     "lastTitle": "Food Truck Application - Hastings Fall Harvest Festival - Eventeny",
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 2,
-    "pageFingerprint": "c9af6f4b46e0a731"
+    "pageFingerprint": "79d35f09e3f42d58"
   },
   {
     "id": "sjc-parks-foundation",
@@ -261,12 +261,12 @@
     "tier": 1,
     "url": "https://sjcpf.org/",
     "county": "St. Johns",
-    "lastChecked": "2026-09-23T00:41:03+00:00",
+    "lastChecked": "2026-09-23T19:27:37+00:00",
     "lastHttpStatus": 200,
     "lastTitle": "St. Johns County Parks Foundation",
     "lastStatus": "OK",
     "lastError": "",
     "lastCandidateCount": 1,
-    "pageFingerprint": "3fa105f185687cb1"
+    "pageFingerprint": "93a533e0c01c3329"
   }
 ]
