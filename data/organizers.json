@@ -1,0 +1,160 @@
+[
+  {
+    "id": "palm-coast-special-events",
+    "name": "City of Palm Coast Special Events",
+    "county": "Flagler",
+    "email": "SpecialEvents@palmcoastgov.com",
+    "phone": "386-986-2323",
+    "type": "Municipal organizer",
+    "controls": [
+      "Beats & Eats",
+      "Tree Lighting",
+      "Touch-a-Truck",
+      "Pink Army 5K and other city special events"
+    ],
+    "relationship": "Prior outreach exists. Treat the annual vendor packet as reusable groundwork, but confirm each date and category opening.",
+    "ask": "Which upcoming events still need a frozen dessert truck, what is the total vendor cost, and is the annual packet complete?",
+    "url": "https://www.palmcoast.gov/Events"
+  },
+  {
+    "id": "flagler-cultural-council",
+    "name": "Flagler County Cultural Council",
+    "county": "Flagler",
+    "email": "info@flaglerartsandculture.org",
+    "phone": "386-313-4229",
+    "type": "Arts / festival organizer",
+    "controls": [
+      "Flagler Fall Arts & Crafts Festival"
+    ],
+    "relationship": "Published food-truck application exists. Danielle Anderson is a useful recurring contact.",
+    "ask": "How many frozen-dessert vendors are accepted, is a full-length truck space available, and what future events use the same vendor pool?",
+    "url": "https://flaglerartsandculture.org/"
+  },
+  {
+    "id": "flagler-broadcasting",
+    "name": "Flagler Broadcasting",
+    "county": "Flagler",
+    "email": "samantha@flaglerbroadcasting.com",
+    "phone": "386-437-1992",
+    "type": "Festival / media organizer",
+    "controls": [
+      "KIX Country Fest",
+      "Creekside Festival"
+    ],
+    "relationship": "Multiple event routes under one organizer make this contact more valuable than a single event.",
+    "ask": "Request the current food-truck contract, all-in fee, dessert roster, recent gate count, placement, mandatory hours and weather terms.",
+    "url": "https://flaglerbroadcasting.com/"
+  },
+  {
+    "id": "florida-ag-museum",
+    "name": "Florida Agricultural Museum",
+    "county": "Flagler",
+    "email": "FoodTruckFriday@FloridaAgMuseum.org",
+    "phone": "386-446-7630",
+    "type": "Venue / recurring series",
+    "controls": [
+      "Food Truck Friday on the Farm"
+    ],
+    "relationship": "Recurring monthly format. One good test date can become repeat work.",
+    "ask": "Ask Kara for the next dessert opening, current truck fee, dessert categories already booked and rain-credit policy.",
+    "url": "https://floridaagmuseum.org/"
+  },
+  {
+    "id": "smart-flagler",
+    "name": "SMART Flagler",
+    "county": "Flagler",
+    "email": "Shara@smartflagler.com",
+    "phone": "386-264-2288",
+    "type": "Nonprofit / community organizer",
+    "controls": [
+      "Cruis'n 4 Paws"
+    ],
+    "relationship": "Public vendor request makes this a concrete lead rather than a generic calendar listing.",
+    "ask": "Confirm the dessert-truck opening, total vendor fee, competition and any required giveback.",
+    "url": "https://smartflagler.com/"
+  },
+  {
+    "id": "flagler-schools",
+    "name": "Flagler Schools / PTO / Athletics",
+    "county": "Flagler",
+    "email": "homeshow@flaglerschools.com",
+    "phone": "386-447-4345",
+    "type": "School network",
+    "controls": [
+      "Flagler Home & Lifestyle Show",
+      "PTO family nights",
+      "Field days",
+      "Athletics / booster concessions"
+    ],
+    "relationship": "School opportunities are relationship-driven and require campus or concessions approval, not just an event listing.",
+    "ask": "Ask for the PTO event chair or athletic concessions decision-maker and offer one easy trial or prepaid treat event.",
+    "url": "https://www.flaglerschools.com/"
+  },
+  {
+    "id": "artisun-markets",
+    "name": "ArtiSUN Markets",
+    "county": "St. Johns",
+    "type": "Market / festival organizer",
+    "controls": [
+      "JCP CommUnity Market",
+      "St. ARTistine Art & Food Festival"
+    ],
+    "relationship": "One registration system controls multiple dates and venues. Historical/current pricing has differed by event.",
+    "ask": "Confirm food-truck category availability for each date, frozen-dessert competition and whether repeat vendors receive priority.",
+    "url": "https://form.jotform.com/241145265797161"
+  },
+  {
+    "id": "hastings-festival",
+    "name": "Hastings Main Street, Inc.",
+    "county": "St. Johns",
+    "type": "Festival organizer",
+    "controls": [
+      "Hastings Fall Harvest Festival",
+      "Cabbage, Potato & Bacon Festival",
+      "Hastings seasonal downtown events"
+    ],
+    "relationship": "One organizer controls both a fall festival and the spring Cabbage, Potato & Bacon Festival. Historical food-truck applications show concrete fees and generator rules.",
+    "ask": "Ask when the next food-truck application opens, whether frozen desserts are available, and whether one successful date helps with future festivals.",
+    "url": "https://www.hastingsfl.org/festivals/"
+  },
+  {
+    "id": "lions-foundation",
+    "name": "St. Augustine Lions Foundation",
+    "county": "St. Johns",
+    "type": "Recurring festival organizer",
+    "controls": [
+      "St. Augustine Lions Seafood Festival"
+    ],
+    "relationship": "Established recurring festival with a dedicated food and beverage vendor inquiry route.",
+    "ask": "Request the 2027 food-and-beverage packet, fee, vendor count, dessert overlap and latest actual attendance figure.",
+    "url": "https://lionsfestival.com/contact-applications/"
+  },
+  {
+    "id": "grand-haven-vesta",
+    "name": "Grand Haven / Vesta Property Services",
+    "county": "Flagler",
+    "email": "jlucansky@vestapropertyservices.com",
+    "phone": "386-447-0192",
+    "type": "Private community",
+    "controls": [
+      "Grand Haven resident socials"
+    ],
+    "relationship": "Best approached as a host-promoted private social, not rent-only parking.",
+    "ask": "Pitch a 90-minute prepaid or minimum-guarantee ice cream social with one clear invoice.",
+    "url": ""
+  },
+  {
+    "id": "sjc-parks-foundation",
+    "name": "St. Johns County Parks Foundation",
+    "county": "St. Johns",
+    "type": "Parks nonprofit / family event partner",
+    "controls": [
+      "Family Color Run 5K",
+      "Just Tri It Kids Triathlon",
+      "Parks & Rec Month partner/vendor opportunities"
+    ],
+    "relationship": "The foundation explicitly advertises vendor and sponsorship opportunities around family recreation events.",
+    "ask": "Request the current vendor/partner packet, exact fee, finish-area placement, included refreshments and whether dessert is still open.",
+    "url": "https://sjcpf.org/"
+  }
+]
