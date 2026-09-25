@@ -1213,5 +1213,42 @@
       "DESSERT COMPETITION",
       "ATTENDANCE UNKNOWN"
     ]
+  },
+  {
+    "id": "volusia-daytona-city-hall-eats",
+    "series": "City Hall Eats",
+    "name": "Daytona City Hall Eats — future food-truck drawings",
+    "county": "Volusia",
+    "city": "Daytona Beach",
+    "venue": "City Hall, 301 S. Ridgewood Ave",
+    "dateStart": "",
+    "publicHours": "Future dates not announced. The Sept. 23 example ran 4:00–8:00 PM.",
+    "type": "Municipal food-truck rotation",
+    "opportunityType": "Ongoing interest application / drawing",
+    "vendorStatus": "Open interest application",
+    "organizer": "City of Daytona Beach",
+    "feeDisplay": "$75 city permit fee if selected",
+    "feeNotes": "Interest submission enters a drawing. Selected vendors complete the city's application and permitting process, including a $75 permit fee before participating. Confirm whether additional costs apply.",
+    "audience": "City Hall visitors and City Commission meeting attendees; turnout for future dates is not published.",
+    "competition": "Two trucks were selected for Sept. 23; one was a treats vendor. Future truck count and dessert-category restrictions are unknown.",
+    "requirements": "Submit the city's interest application; if selected, complete city application and permitting. Ask whether Scoops' existing licenses, business tax receipt and insurance satisfy the city.",
+    "power": "Generator or shore-power rules not published; ask before committing.",
+    "nextAction": "Submit the interest form linked from the city announcement, then ask for future dates, expected traffic, dessert competition and power rules before accepting a slot.",
+    "confidence": "high",
+    "sourceLabel": "City of Daytona Beach official vendor invitation",
+    "sourceUrl": "https://daytonabeach.gov/m/newsflash/home/detail/2092",
+    "applicationUrl": "https://tinyurl.com/6fzeweyw",
+    "sourceChecked": "2026-09-25",
+    "approxMiles": 49,
+    "distanceTag": "STRETCH",
+    "profitPotential": "UNKNOWN",
+    "profitTags": [
+      "REPEAT POTENTIAL",
+      "LOW FEE",
+      "LONG DRIVE",
+      "ATTENDANCE UNKNOWN",
+      "DESSERT COMPETITION UNKNOWN"
+    ],
+    "history": "The Sept. 23 City Hall Eats date is past; the city's posted invitation says vendors can enter drawings for future dates, which will be announced later."
   }
 ]
