@@ -1,2 +1,2 @@
 # Scoops
-Business Page
+Scoops by the Sea events page
