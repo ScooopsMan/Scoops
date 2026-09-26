@@ -1250,5 +1250,44 @@
       "DESSERT COMPETITION UNKNOWN"
     ],
     "history": "The Sept. 23 City Hall Eats date is past; the city's posted invitation says vendors can enter drawings for future dates, which will be announced later."
+  },
+  {
+    "id": "stjohns-outpost-food-truck",
+    "series": "The Outpost SJC food-truck placement",
+    "name": "The Outpost SJC — ongoing food-truck application",
+    "county": "St. Johns",
+    "city": "St. Augustine",
+    "venue": "The Outpost, 2505 Old Moultrie Road, St. Augustine, FL 32086",
+    "dateStart": "",
+    "publicHours": "No fixed event date. Each truck sets its own schedule; requested dates and placement are confirmed after application review.",
+    "type": "Recurring private food-truck venue",
+    "opportunityType": "Ongoing food-truck application",
+    "vendorStatus": "Open application",
+    "organizer": "The Outpost SJC",
+    "contactEmail": "hello@theoutpostsjc.com",
+    "contactPhone": "904-658-5233",
+    "feeDisplay": "Food-truck terms not published — discussed after review",
+    "feeNotes": "The posted $175/month Vendor Pass and $45/session Drop Day prices apply to other vendor programs. The site says food-truck terms are discussed after review; no truck fee, commission, rent or minimum commitment is published.",
+    "audience": "Local residents and community visitors; attendance and daily traffic are not published.",
+    "competition": "Four resident trucks are listed, including Crepes 904 Sweet & Savory Crêpes, plus a rotating guest truck. Frozen-dessert/category exclusivity is not stated.",
+    "requirements": "Submit the official form with contact details, business name, website or social profile, preferred dates and a description of the menu/setup. Licensing, insurance, fire inspection and local business-tax requirements are not published; confirm before accepting.",
+    "power": "The site advertises power for Vendor Pass booths, but truck electrical hookups and generator rules are not published.",
+    "nextAction": "Apply through the food-truck form and ask for the truck fee or revenue share, available dates, expected traffic, service-hour expectations, power, insurance/fire requirements and whether the existing crêpe truck affects dessert availability.",
+    "confidence": "high",
+    "sourceLabel": "The Outpost SJC official food-truck application",
+    "sourceUrl": "https://theoutpostsjc.com/",
+    "applicationUrl": "https://theoutpostsjc.com/apply?type=truck",
+    "sourceChecked": "2026-09-26",
+    "approxMiles": 22,
+    "distanceTag": "REASONABLE DRIVE",
+    "profitPotential": "MEDIUM",
+    "profitTags": [
+      "REPEAT POTENTIAL",
+      "FAMILY CROWD",
+      "DESSERT COMPETITION",
+      "ATTENDANCE UNKNOWN",
+      "PLACEMENT UNKNOWN"
+    ],
+    "history": "Official site checked Sept. 26, 2026. Applications are open on a rolling basis; dates and placement remain subject to review and availability."
   }
 ]
