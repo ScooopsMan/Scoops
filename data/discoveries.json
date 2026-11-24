@@ -7041,6 +7041,32 @@
     "needsReview": true
   },
   {
+    "id": "discovery-6a31166ceeab",
+    "sourceId": "stjohns-parks",
+    "sourceName": "St. Johns County Parks & Recreation",
+    "sourceKind": "Official county source",
+    "sourceTier": 1,
+    "county": "St. Johns",
+    "priority": "SECONDARY",
+    "approxMiles": 29,
+    "distanceTag": "REASONABLE DRIVE",
+    "profitPotential": "UNKNOWN",
+    "profitTags": [
+      "REASONABLE DRIVE"
+    ],
+    "title": "2026 Color Run Success",
+    "url": "https://www.sjcfl.us/family-color-run-5k-brings-community-together-2026",
+    "keywordHits": [
+      "community",
+      "family"
+    ],
+    "score": 3,
+    "signal": "low",
+    "firstSeen": "2026-11-24",
+    "lastSeen": "2026-11-24",
+    "needsReview": true
+  },
+  {
     "id": "discovery-1903fe36a8e2",
     "sourceId": "flagler-fair",
     "sourceName": "Flagler County Fair & Youth Show",
